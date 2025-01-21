@@ -2,7 +2,7 @@
 
 # Hoodie Mockups Repository
 
-Welcome to the official Bitbucket repository for [Hoodie Mockups](https://www.mockupdaddy.com/hoodie-mockup), brought to you by MockupDaddy. This repository is dedicated to designers, marketers, and creators looking for top-quality mockups to enhance their projects and presentations. Dive in and discover how hoodie mockups can transform your visual content, elevate your branding, and drive engagement like never before.
+Welcome to the official Github repository for [Hoodie Mockups](https://www.mockupdaddy.com/hoodie-mockup), brought to you by MockupDaddy. This repository is dedicated to designers, marketers, and creators looking for top-quality mockups to enhance their projects and presentations. Dive in and discover how hoodie mockups can transform your visual content, elevate your branding, and drive engagement like never before.
 
 ![image](https://github.com/user-attachments/assets/3542150e-1f1e-4f5c-bd74-256ef83708a5)
 
@@ -24,7 +24,7 @@ High-quality hoodie mockups allow you to:
 
 ## About Hoodie Mockups from MockupDaddy.com
 
-[MockupDaddy.com](https://www.mockupdaddy.com/hoodie-mockup) offers an extensive range of hoodie mockups designed to suit various needs. From pullover styles to zip-ups, cropped designs to oversized fits, our mockups are tailored to reflect modern trends and provide unparalleled versatility for your projects.
+[MockupDaddy](https://www.mockupdaddy.com/) offers an extensive range of hoodie mockups designed to suit various needs. From pullover styles to zip-ups, cropped designs to oversized fits, our mockups are tailored to reflect modern trends and provide unparalleled versatility for your projects.
 
 ### Key Features of Our Mockups:
 
@@ -41,7 +41,7 @@ High-quality hoodie mockups allow you to:
 
 Using hoodie mockups is straightforward and efficient, even for beginners. Follow these simple steps to bring your designs to life:
 
-1. **Download the PSD file:** Visit [MockupDaddy.com](https://www.mockupdaddy.com/hoodie-mockup) to access our collection of premium hoodie mockups.
+1. **Download the PSD file:** Visit MockupDaddy to access our collection of premium hoodie mockups.
 2. **Open the file in Photoshop:** Load the PSD file into Adobe Photoshop or a compatible editor.
 3. **Insert your design:** Use the smart object layers to effortlessly replace the placeholder graphics with your artwork.
 4. **Customize the details:** Adjust colors, shadows, and textures to match your vision.
@@ -102,7 +102,7 @@ We welcome your suggestions and contributions to enhance this repository. If you
 
 ## About MockupDaddy.com
 
-At [MockupDaddy.com](https://www.mockupdaddy.com/), we believe in empowering creativity with high-quality mockups that meet the demands of modern design and marketing. Our mission is to provide accessible, reliable, and versatile tools that help you make an impact.
+At MockupDaddy, we believe in empowering creativity with high-quality mockups that meet the demands of modern design and marketing. Our mission is to provide accessible, reliable, and versatile tools that help you make an impact.
 
 ---
 
