@@ -2,7 +2,7 @@
 
 # Hoodie Mockups Repository
 
-Welcome to the official Bitbucket repository for **[Hoodie Mockups]**(https://www.mockupdaddy.com/hoodie-mockup), brought to you by MockupDaddy. This repository is dedicated to designers, marketers, and creators looking for top-quality mockups to enhance their projects and presentations. Dive in and discover how hoodie mockups can transform your visual content, elevate your branding, and drive engagement like never before.
+Welcome to the official Bitbucket repository for [Hoodie Mockups](https://www.mockupdaddy.com/hoodie-mockup), brought to you by MockupDaddy. This repository is dedicated to designers, marketers, and creators looking for top-quality mockups to enhance their projects and presentations. Dive in and discover how hoodie mockups can transform your visual content, elevate your branding, and drive engagement like never before.
 
 ![image](https://github.com/user-attachments/assets/3542150e-1f1e-4f5c-bd74-256ef83708a5)
 
